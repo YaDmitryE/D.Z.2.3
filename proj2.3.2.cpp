@@ -1,4 +1,4 @@
-https://github.com/YaDmitryE/D.Z.2.3
+//https://github.com/YaDmitryE/D.Z.2.3
 
 #include <stdio.h>
 
